@@ -1,0 +1,6 @@
+﻿QuizApp.Tests
+│
+├── ScoreServiceTests.cs
+├── QuizServiceTests.cs
+├── ShuffleServiceTests.cs
+└── CsvLoaderTests.cs
